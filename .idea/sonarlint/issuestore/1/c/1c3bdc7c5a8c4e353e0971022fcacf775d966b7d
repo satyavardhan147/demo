@@ -1,0 +1,21 @@
+
+|
+java:S1488 "_Immediately return this expression instead of assigning it to the temporary variable "payload".(‹Şš8—ªòşŞ1
+€
+java:S1488&"cImmediately return this expression instead of assigning it to the temporary variable "payloadList".(êŒ³â8—ªòşŞ1
+m
+java:S3655,"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(±Æ§„8¥ªòşŞ1
+m
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‹Şš8¥ªòşŞ1
+l
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8ªªòşŞ1
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8ªªòşŞ1
+q
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.PutMapping'.(›¥÷ˆûÿÿÿÿ8ªªòşŞ1
+s
+java:S1128	"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8«ªòşŞ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8«ªòşŞ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8«ªòşŞ1
